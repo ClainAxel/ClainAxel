@@ -1,3 +1,3 @@
-verif=true
-if verif:
+verife=true
+if verife:
           print("bravo super")
